@@ -1,0 +1,25 @@
+{"CourseID":"CSE 101", "CourseName":"Introduction to Computer Application", "InstructorName":"Syful Islam", "NumberOfCredits":3}
+{"CourseID":"CSE 102", "CourseName":"Structured Programming Language(C)", "InstructorName":"Salauddin Pathan", "NumberOfCredits":3}
+{"CourseID":"CSE 103", "CourseName":"Structured Programming Language Lab", "InstructorName":"Nahida Akter", "NumberOfCredits":3}
+{"CourseID":"CSE 201", "CourseName":"Object Oriented Programming(C++)", "InstructorName":"Yasin Kabir", "NumberOfCredits":3}
+{"CourseID":"CSE 202", "CourseName":"C++ Lab", "InstructorName":"Yasin Kabir", "NumberOfCredits":2}
+{"CourseID":"CSE 301", "CourseName":"Data Structure and Algorithms", "InstructorName":"Koushik Chandra Hawladar", "NumberOfCredits":3}
+{"CourseID":"CSE 303", "CourseName":"Discrete Mathematics", "InstructorName":"Md. Javed Hossian", "NumberOfCredits":3}
+{"CourseID":"CSE 405", "CourseName":"Software Engineering and Information System Design", "InstructorName":"Md. Hasnat Riaz", "NumberOfCredits":3}
+{"CourseID":"CSE 410", "CourseName":"Computer Architecture and organization", "InstructorName":"Abul Kalam Azad", "NumberOfCredits":3}
+{"CourseID":"CSE 503", "CourseName":"Computer Networking", "InstructorName":"Dr. Md. Humayun Kabir", "NumberOfCredits":3}
+{"CourseID":"CSE 507", "CourseName":"Database Mangement System", "InstructorName":"Md. Hasnat Riaz", "NumberOfCredits":3}
+{"CourseID":"CSE 604", "CourseName":"Operating Systems", "InstructorName":"Koushik Chandra Hawladar", "NumberOfCredits":3}
+{"CourseID":"CSE 605", "CourseName":"Web Technologies", "InstructorName":"Ratna Dip Kuri", "NumberOfCredits":3}
+{"CourseID":"CSE 709", "CourseName":"Computer Graphics", "InstructorName":"Nazia Majadi", "NumberOfCredits":3}
+{"CourseID":"CSE 801", "CourseName":"Artificial Intelligence and Neural Networks", "InstructorName":"Mahmudul Hasan Rana", "NumberOfCredits":3}
+{"CourseID":"BBA 102", "CourseName":"Industrial and Business Management", "InstructorName":"Jenifa Yesmin", "NumberOfCredits":3}
+{"CourseID":"BBA 202", "CourseName":"Introduction to Finance", "InstructorName":"Trina Saha", "NumberOfCredits":3}
+{"CourseID":"BBA 203", "CourseName":"Introduction to Accounting", "InstructorName":"Md. Rubel Miah", "NumberOfCredits":3}
+{"CourseID":"BBA 305", "CourseName":"Principle of Economics", "InstructorName":"Sumon Kumar Das", "NumberOfCredits":3}
+{"CourseID":"BBA 404", "CourseName":"Financial and Cost Accounting", "InstructorName":"Shafiqul Alam", "NumberOfCredits":3}
+{"CourseID":"ENG 102", "CourseName":"Developing Basic English Skills", "InstructorName":"Fatema Jannat", "NumberOfCredits":3}
+{"CourseID":"ENG 105", "CourseName":"Engilsh Literature and Grammar", "InstructorName":"Prantika Mutsuddi", "NumberOfCredits":2}
+{"CourseID":"ENG 201", "CourseName":"Engilsh for Specific Purposes", "InstructorName":"Shahera Katun", "NumberOfCredits":3}
+{"CourseID":"ENG 203", "CourseName":"Engilsh Essay and Paragraph", "InstructorName":"Urmi Das", "NumberOfCredits":2}
+{"CourseID":"ENG 304", "CourseName":"Speaking English", "InstructorName":"Md. Nasir Uddin", "NumberOfCredits":3}

@@ -1,0 +1,17 @@
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.exe
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.deps.json
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.runtimeconfig.json
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.dll
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\bin\Debug\net6.0\StudentManagementSystem.pdb
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.AssemblyReference.cache
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.AssemblyInfoInputs.cache
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.AssemblyInfo.cs
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.dll
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\refint\StudentManagementSystem.dll
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.pdb
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.genruntimeconfig.cache
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\ref\StudentManagementSystem.dll
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\C#\ASTHA-IT-Project\StudentManagementSystem\obj\Debug\net6.0\StudentManagementSystem.csproj.CopyComplete
